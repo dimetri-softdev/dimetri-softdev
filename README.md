@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dimetri
 
-### 💻 Software Development Student | 🎮 Gamer | 🚀 Aspiring Full-Stack Developer
+### 💻 Software Development Student | 🚀 Aspiring Full-Stack Developer
 
 ---
 
@@ -11,8 +11,6 @@
 💻 Passionate about building applications that solve real-world problems
 
 🤖 Interested in AI, Automation, Cybersecurity and Full-Stack Development
-
-🎮 Fortnite player & content creator
 
 🌱 Currently learning
 
@@ -56,17 +54,12 @@ Built using ASP.NET MVC, SQL Server and C#.
 - Graduate with my Diploma
 - Land my first Software Developer role
 
-## 🎮 Outside of Coding
-
-- Fortnite
-- Gaming
-- Streaming
-- Technology
-- AI
 
 ## 📫 Connect With Me
 
-Replace this section with your social links.
+Email: dimetri248@gmail.com
+Phone: 0692963741
+
 
 ---
 
