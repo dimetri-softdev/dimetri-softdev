@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dimetri
 
-### 💻 Software Development Student | 🚀 Aspiring Full-Stack Developer
+### 💻 Software Development Student | 🚀 Aspiring Developer
 
 ---
 
@@ -35,20 +35,18 @@
 
 ## 📂 Featured Projects
 
-### 💰 FinSight AI Analyzer
-AI-powered personal finance analysis application using .NET, PostgreSQL and AI.
-
 ### 📱 Kotlin Android Apps
 - Budget Tracker
 - Field Investigator Manager
 - Student Projects
 
 ### 🛒 E-Commerce Website
-Built using ASP.NET MVC, SQL Server and C#.
+Built using PHP,CSS & HTML.
 
 ## 🎯 Current Goals
 
 - Build more open-source projects
+- Build projects to solve to real-world problems
 - Master Full-Stack Development
 - Learn AI Development
 - Graduate with my Diploma
@@ -58,7 +56,9 @@ Built using ASP.NET MVC, SQL Server and C#.
 ## 📫 Connect With Me
 
 Email: dimetri248@gmail.com
+Email: dimetripeters16@gmail.com
 Phone: 0692963741
+Phone: 0672091685
 
 
 ---
