@@ -1,66 +1,38 @@
-# 👋 Hi, I'm Dimetri
+# Hi, I'm Dimetri
 
-### 💻 Software Development Student | 🚀 Aspiring Developer
+**IT Software Development Student | Aspiring Software Developer**
 
----
+## About Me
 
-## 🚀 About Me
+I'm an IT software development student who enjoys building practical applications. I'm interested in full-stack development, AI, automation, and cybersecurity.
 
-🎓 IT Software Development Student
+**Currently learning:** C#, .NET, Kotlin, SQL, Android development, and AI integration.
 
-💻 Passionate about building applications that solve real-world problems
+## Skills & Tools
 
-🤖 Interested in AI, Automation, Cybersecurity and Full-Stack Development
+- **Languages:** C#, TypeScript, Python, Kotlin, Java, SQL, PHP
+- **Frameworks & platforms:** ASP.NET Core, .NET, React, Next.js, FastAPI, Android
+- **Tools:** Git & GitHub, Visual Studio, VS Code, Android Studio
 
-🌱 Currently learning
+## Featured Projects
 
-- Kotlin
-- C#
-- .NET
-- SQL
-- Android Development
-- AI Integration
+- [**Job Hunter**](https://github.com/dimetri-softdev/Job-Hunter) — A job-search platform for tracking applications, optimizing resumes, practicing interviews, and managing professional profiles. Built with Next.js, TypeScript, Python, Prisma, and PostgreSQL.
+- [**DoctorPracticeCmsApi**](https://github.com/dimetri-softdev/DoctorPracticeCmsApi) — An ASP.NET Core API for managing practice website content and appointment requests, with SQL Server, EF Core, and role-based authorization.
+- [**EcommerceApi**](https://github.com/dimetri-softdev/EcommerceApi) — An ASP.NET Core REST API for products, categories, and customer orders, with JWT authentication and role-based access.
+- [**Developer Portfolio**](https://github.com/dimetri-softdev/dimetri-developer-portfolio) — A responsive personal portfolio built with React and Vite.
+- [**FineX AI**](https://github.com/dimetri-softdev/FineX-AI) — An offline-first, cross-platform app for tracking expenses and budgets, scanning receipts, and viewing spending insights.
+- [**TriageAI**](https://github.com/dimetri-softdev/TriageAI) — An AI-powered support ticket triage engine built with Python, FastAPI, and structured LLM outputs.
 
-## 🛠️ Tech Stack
+## Current Goals
 
-- C#
-- Kotlin
-- Java
-- SQL
-- .NET
-- Android Studio
-- Git & GitHub
-- Visual Studio
-- VS Code
+- Build and share useful open-source projects.
+- Continue developing my full-stack and AI skills.
+- Complete my diploma and pursue my first software developer role.
 
-## 📂 Featured Projects
+## Connect
 
-### 📱 Kotlin Android Apps
-- Budget Tracker
-- Field Investigator Manager
-- Student Projects
-
-### 🛒 E-Commerce Website
-Built using PHP,CSS & HTML.
-
-## 🎯 Current Goals
-
-- Build more open-source projects
-- Build projects to solve to real-world problems
-- Master Full-Stack Development
-- Learn AI Development
-- Graduate with my Diploma
-- Land my first Software Developer role
-
-
-## 📫 Connect With Me
-
-Email: dimetri248@gmail.com
-Email: dimetripeters16@gmail.com
-Phone: 0692963741
-Phone: 0672091685
-
+[Find me on GitHub](https://github.com/dimetri-softdev)
 
 ---
 
-⭐ *Code. Learn. Improve. Repeat.*
+*Code. Learn. Improve. Repeat.*
