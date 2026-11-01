@@ -1,66 +1,37 @@
-# 👋 Hi, I'm Dimetri
+# Hi, I'm Dimetri
 
-### 💻 Software Development Student | 🚀 Aspiring Developer
+**IT Software Development Student | Aspiring Software Developer**
 
----
+## About Me
 
-## 🚀 About Me
+I'm an IT software development student who enjoys building applications that solve practical problems. I'm interested in full-stack development, AI, automation, and cybersecurity.
 
-🎓 IT Software Development Student
+**Currently learning:** Kotlin, C#, .NET, SQL, Android development, and AI integration.
 
-💻 Passionate about building applications that solve real-world problems
+## Skills & Tools
 
-🤖 Interested in AI, Automation, Cybersecurity and Full-Stack Development
+- **Languages:** C#, Kotlin, Java, SQL, PHP
+- **Frameworks & platforms:** .NET, Android development
+- **Tools:** Android Studio, Git & GitHub, Visual Studio, VS Code
 
-🌱 Currently learning
+## Featured Projects
 
-- Kotlin
-- C#
-- .NET
-- SQL
-- Android Development
-- AI Integration
+- [**FineX AI**](https://github.com/dimetri-softdev/FineX-AI) — An offline-first, cross-platform app for tracking expenses and budgets, scanning receipts, and viewing spending insights.
+- [**TriageAI**](https://github.com/dimetri-softdev/TriageAI) — An AI-powered support ticket triage engine built with Python, FastAPI, and structured LLM outputs.
+- [**Equili Budget Tracker**](https://github.com/dimetri-softdev/Equili_Budget_Tracker) — A Kotlin budget-tracking project.
+- [**PastTimes Online Clothing Store**](https://github.com/dimetri-softdev/PastTimes-Online-Clothing-Store) — An e-commerce website built with PHP, CSS, and HTML.
 
-## 🛠️ Tech Stack
+## Current Goals
 
-- C#
-- Kotlin
-- Java
-- SQL
-- .NET
-- Android Studio
-- Git & GitHub
-- Visual Studio
-- VS Code
+- Build and share more open-source projects.
+- Create useful applications that solve real-world problems.
+- Continue developing my full-stack and AI skills.
+- Complete my diploma and pursue my first software developer role.
 
-## 📂 Featured Projects
+## Connect
 
-### 📱 Kotlin Android Apps
-- Budget Tracker
-- Field Investigator Manager
-- Student Projects
-
-### 🛒 E-Commerce Website
-Built using PHP,CSS & HTML.
-
-## 🎯 Current Goals
-
-- Build more open-source projects
-- Build projects to solve to real-world problems
-- Master Full-Stack Development
-- Learn AI Development
-- Graduate with my Diploma
-- Land my first Software Developer role
-
-
-## 📫 Connect With Me
-
-Email: dimetri248@gmail.com
-Email: dimetripeters16@gmail.com
-Phone: 0692963741
-Phone: 0672091685
-
+[Find me on GitHub](https://github.com/dimetri-softdev)
 
 ---
 
-⭐ *Code. Learn. Improve. Repeat.*
+*Code. Learn. Improve. Repeat.*
